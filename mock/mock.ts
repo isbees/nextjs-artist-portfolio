@@ -1,11 +1,11 @@
 export const data = {
-  name: "Carima Smith",
-  job: "Portrait Artist",
-  email: "virmanisatvik01@gmail.com",
-  instagram_link: "https://www.instagram.com/satvikvirmani/",
-  facebook_link: "https://www.facebook.com/satvik.virmani.9",
+  name: "Sarah Maung",
+  job: "Artist / Teacher",
+  email: "sarahmaung@gmail.com",
+  instagram_link: "https://www.instagram.com/sarahmaung/",
+  facebook_link: "https://www.linkedin.com/in/sarah-maung-237296182/",
   aboutme_para1:
-    "Carima Smith began their professional artistic journey in Fine Arts from the Columbia Collage of Arts where I earned my qualification in Super Professional Diploma. Being a literature student helps a lot in defining art. Art is similar to poetry. Painting and poetry are similar in the way that they make “absent things present",
+    "Immersed in the vibrant world of art, I find boundless joy in both creating captivating murals and nurturing young minds through the medium of teaching. Every stroke of the brush carries a story waiting to unfold, as I pour my passion onto the canvas, transforming blank spaces into breathtaking visual narratives. The vivid colors and intricate details interweave to evoke emotions and ignite imaginations, leaving a lasting impression on all who witness the artwork's transformative power.",
   aboutme_para2:
-    "Unlike many of their contemporaries, Carina Smith is primarily self-taught and has their own approach to - and definition of - art. They believe in constantly taking risks and believe that inspiration can be found wherever they look. To find out more about their philosophy, feel free to get in touch.",
+    "My passion for art started when I was a toddler and my mom was teaching me English and Burmese. She would write the words and draw the pictures and when I had to trace over them I realized I like the visual aspect of learning the best and it became my favorite form of learning and now my hobby and form of making money.",
 };
